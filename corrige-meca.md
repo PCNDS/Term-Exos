@@ -10,7 +10,10 @@
 <img src="https://hackmd.io/_uploads/BkS1CX3RA.png" width="200" align="right">
 
 D'après le PFD : 
-$$\sum{\vec{F_{ext}}} = m\vec{a}$$ $$\vec{a} = \vec{g} $$ $$a = g$$ $$v = gt-v_0 $$ $$x = \frac{gt^2}{2} - v_0t$$
+$$\sum{\vec{F_{ext}}} = m\vec{a}$$ 
+$$\vec{a} = \vec{g} $$ 
+$$a = g$$ $$v = gt-v_0 $$ 
+$$x = \frac{gt^2}{2} - v_0t$$
 Notre équation horaires est donc : $x = \frac{gt^2}{2} - v_0t$
 
 1. on veut trouver $t_s$ tel que $x(t_s) = h$. 
